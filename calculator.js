@@ -41,3 +41,4 @@ while (parseInt(num2)!=num2){
 }
 res= calculator(num1,num2,symbol);
 console.log(res);
+//this is a test !
