@@ -39,5 +39,5 @@ while (parseInt(num2)!=num2){
   alert("Not an integer");
   num2=prompt("Give me number 2");
 }
-result= calculator(num1,num2,symbol);
-console.log(result);
+res= calculator(num1,num2,symbol);
+console.log(res);
