@@ -1,5 +1,6 @@
 function calculator(a,b,sym) 
 {
+  //this is a comment
   switch (sym) 
   {
     case "+":
